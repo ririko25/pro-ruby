@@ -19,3 +19,6 @@ Naming/VariableName:
 Metrics/MethodLength:
   CountComments: true  # count full line comments?
   Max: 40
+
+Style/RedundantReturn:
+  Enabled: false
